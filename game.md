@@ -1,5 +1,9 @@
 # Sitting Ducks
 
+[:back: Back to home page](./)
+
+[:back: Back to my projects](./projects)
+
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
