@@ -1,4 +1,8 @@
-## Sitting Ducks
+# Sitting Ducks
+
+[:back: Back to my projects](./projects)
+
+[:back: Back to home page](./)
 
 <html lang="en-us">
   <head>
@@ -25,6 +29,3 @@
   </body>
 </html>
 
-[:back: Back to my projects](./projects)
-
-[:back: Back to home page](./)
