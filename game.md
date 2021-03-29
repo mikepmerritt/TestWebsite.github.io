@@ -2,8 +2,7 @@
 
 [:back: Back to home page](./)
 
-[:back: Back to my projects](./projects)
-
+[:back: Back to my projects](./projects)  
 
 <html lang="en-us">
   <head>
