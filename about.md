@@ -15,3 +15,5 @@ I have programmed in several different languages, such as Python, Java, JavaScri
 ## Additional Information
 
 Some of my interests include programming, robotics, and both playing and making video games. I am a member of the Quinnipiac Computing Club and the Quinnipiac Game Developers Club. I began participating in game jams starting with the Quinnipiac Game Dev Club eJam 2020. You can find more about my game development at [my itch.io page](https://meepix.itch.io/).
+
+[Back to home page](./)
