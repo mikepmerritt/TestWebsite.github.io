@@ -2,7 +2,7 @@
 
 ## Sitting Ducks
 
-Sitting Ducks is a puzzle game that my brother and I made for the [Quinnipiac Game Dev Club eJam 2020](https://itch.io/jam/quinnipiac-game-dev-club-ejam-2020). We made the game using Unity, and it is programmed in C#. I ended up making most of the art assets and level designs myself, and also helped out with some of the code. We had many issues with collisions not being detected or happening at strange times, but for a first game, I was proud of what we were able to make. We ended up placing first the category for "Representation of the Jam's Theme".
+Sitting Ducks is a puzzle game that my brother and I made for the [Quinnipiac Game Dev Club eJam 2020](https://itch.io/jam/quinnipiac-game-dev-club-ejam-2020). We made the game using Unity, and it is programmed in C#. I ended up making most of the art assets and level designs myself, and also helped out with some of the code. We had many issues with collisions not being detected or happening at strange times, but for a first game, I was proud of what we were able to make. We ended up placing first the category for "Representation of the Jam's Theme". You can play the game in your browser [here](./game).
 
 [Repository for Sitting Ducks](https://github.com/mattcmerritt/Sitting-Ducks)
 
